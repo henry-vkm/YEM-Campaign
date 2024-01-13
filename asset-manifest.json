@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YEM-Campaign/static/css/main.69470abb.css",
-    "main.js": "/YEM-Campaign/static/js/main.f44b289f.js",
+    "main.css": "/YEM-Campaign/static/css/main.a8f531c9.css",
+    "main.js": "/YEM-Campaign/static/js/main.b1a7d5b4.js",
     "static/media/TShirt.png": "/YEM-Campaign/static/media/TShirt.706ad1797390993cdc64.png",
     "static/media/hero_img.svg": "/YEM-Campaign/static/media/hero_img.3eed14c42e3cea98d0109dd88df58241.svg",
     "index.html": "/YEM-Campaign/index.html",
-    "main.69470abb.css.map": "/YEM-Campaign/static/css/main.69470abb.css.map",
-    "main.f44b289f.js.map": "/YEM-Campaign/static/js/main.f44b289f.js.map"
+    "main.a8f531c9.css.map": "/YEM-Campaign/static/css/main.a8f531c9.css.map",
+    "main.b1a7d5b4.js.map": "/YEM-Campaign/static/js/main.b1a7d5b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.69470abb.css",
-    "static/js/main.f44b289f.js"
+    "static/css/main.a8f531c9.css",
+    "static/js/main.b1a7d5b4.js"
   ]
 }
