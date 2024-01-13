@@ -17,7 +17,7 @@ const Contact = () => {
           <div>
             <Input textarea={true} placeholder="Message" label="Message" type="text-box"/>
           </div>
-          <button className="py-[20px] bg-[#6C63FF] justify-start w-[35%] rounded-[8px] text-white mt-[10px]">Submit</button>
+          <button className="py-[20px] bg-[#6C63FF] justify-start w-[30%] rounded-[8px] text-white mt-[10px]">Submit</button>
         </form>
       </div>
     </div>
